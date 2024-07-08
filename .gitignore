@@ -1,0 +1,4 @@
+virt
+venv
+.git
+db.sqlite3
